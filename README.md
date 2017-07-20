@@ -24,7 +24,8 @@ The installations of following libraries are required.
 A sample command should look like **_python inference.py --image_path ../data/sample.jpg --image_label 1_**
 
 ## Training data
-A total of 3,000 images are used in training and validation process, with 20% of which being the validation set. Among these 3,000 images, three categories are evenly distributed.  
+A total of 3,000 images are used in training and validation process, with 20% of which being the validation set.  
+Among these 3,000 images, three categories are evenly distributed.  
 
 ## Performance 
 | 			        | class 0 recall | class 1 recall | class 2 recall | precision |
